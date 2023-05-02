@@ -1,6 +1,6 @@
 # uni-finance
 
-Simple web app which simulates stocks trading. Using flask framework and jinja template engine. All the data is stored in the SQlite DB. 
+Simple web app which simulates stocks trading. Using flask framework and jinja3 template engine. All the data is stored in the SQlite DB. 
 
 ## Implemented: 
 - sign up and log in 
